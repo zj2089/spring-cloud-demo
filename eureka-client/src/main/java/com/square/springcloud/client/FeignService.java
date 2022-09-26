@@ -1,4 +1,4 @@
-package com.qinbaobao.clound.client;
+package com.square.springcloud.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
