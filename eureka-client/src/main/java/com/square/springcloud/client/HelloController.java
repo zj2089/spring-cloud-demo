@@ -1,4 +1,4 @@
-package com.test.clound.client;
+package com.square.springcloud.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
