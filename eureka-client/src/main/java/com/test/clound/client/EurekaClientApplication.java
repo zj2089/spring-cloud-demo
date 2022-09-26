@@ -1,4 +1,4 @@
-package com.qinbaobao.clound.client;
+package com.test.clound.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

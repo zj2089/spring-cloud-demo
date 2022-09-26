@@ -1,4 +1,4 @@
-package com.qinbaobao.clound.feign;
+package com.test.clound.feign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
